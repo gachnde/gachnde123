@@ -1,0 +1,26 @@
+{
+  "name": "Ian Page",
+  "age": 38,
+  "address": {
+    "street": "Vece Path",
+    "city": "Milhuru",
+    "state": "ID",
+    "zip": "26791"
+  },
+  "contact": {
+    "phone": "(576) 228-2875",
+    "servicePhone": "800771124"
+  },
+  "birthday": "1960-01-01T20:30:26.905Z",
+  "ip": "145.21.103.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Daul muc ejuaziop pigig ojous mawaf hof mu awonera okelu kuwdal idausaov alendo. Lirisam donor iggemtec fanzozdi gaskip rubke job meefauk viseg hizipke ozri leje oginugo peidsef zascazag gi buf. Itoazuci heccu jewawuro liziri memfob sapcel topo pakmunol he gic gimo op mioh julazu bohsodcuf guejapu. Ci he efusuc ijo acsower pugewa sogukni hapa aro daibevu amoriiju cuimtis zeczil vetaddab tawum tezpa odoew lokza.",
+    "bio": "Udaiwe devfiguj ve hefmi ul umi mubfud liogefer gejuw rep luwone ridobnaw wisejdoz tigcisun. Kimukpuz juduceat pubewe pot zec oke dorute vol ane omebjet moluc ihle ed cawsisrod. Cusof kuji kur buhpeg mese guz fujgicec ga icrap ziligzi temlig he heple bedepsi ahelev hiug fek com. Kimnez bedocwor radjiwos tifuz cobwusnin mu urce tijsatga tici ral jakdo dundarut ur li kelovu fakmub nug. Cari taruw in luahe joheb rerwuc seg ti fov epeovo gos car ficubeab."
+  },
+  "apiKey": "53193b07bffd9018cec73e52f8f30f5daf9fbfba26fefe8f9cb7de80c91b6bb6",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
