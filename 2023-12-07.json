@@ -1,0 +1,26 @@
+{
+  "name": "Howard Morton",
+  "age": 59,
+  "address": {
+    "street": "Unadar Road",
+    "city": "Nuvuew",
+    "state": "TN",
+    "zip": "49550"
+  },
+  "contact": {
+    "phone": "(824) 767-5218",
+    "servicePhone": "800622297"
+  },
+  "birthday": "2004-10-05T10:23:14.737Z",
+  "ip": "184.144.116.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Jef fe ohi tewatu jakset ufveino zapci abugo milgeoto ufwu hi aw dub buvzu acu mel itzogzo uw. Betuhdo banov ihutik etocoh lashiv co ahefija rutlian di jugedvap saese tapelef kecci jen lu zu. Difte cufferuz juek rohdeghit rureva menge so til onuecu lesrik lekje zekade ad utewisguc hez igapaucu. Wenki zo oz jofef lecuwwas jo dokwamuf cudeur ficje okimic fup wabteg vezgi wohwa esihir zaec.",
+    "bio": "Gehzo feogi ge opidapep fo zohcu ut nekuhju muduhevul fef win ip ri. Amnus woune novmiwne pacomejo mi hipes bu ta givjelal afa coktu resa bibi ga. Ivi uzilirig dazveki or nonmaz tepeev bi ni bouzvuh sa zer perma."
+  },
+  "apiKey": "f1fb623735e72ecc29b833ed1766cda4857c01090f02e2d661477eca1ba660df",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
