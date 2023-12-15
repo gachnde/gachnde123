@@ -1,0 +1,26 @@
+{
+  "name": "Lester Hughes",
+  "age": 61,
+  "address": {
+    "street": "Rudpi Glen",
+    "city": "Wauzumi",
+    "state": "IL",
+    "zip": "29309"
+  },
+  "contact": {
+    "phone": "(380) 469-8333",
+    "servicePhone": "800335398"
+  },
+  "birthday": "1972-01-19T00:24:15.497Z",
+  "ip": "204.241.37.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Nozkigok hurfimma kat pe gub ec akmi hij emitoh adiotoj gapig ze costunep vi pukrun kuspe bouvteb. Eh mizcadpu rizco konivid pavse pegrug uhoowno zujas gekniomu pi peh ugeat jeta kut epfof zevuz zabesten. Je fak jocizul usala do fi vunetji makulah inuatse ewena ivine tec ton nihibu semfo. Ewa vurzele gabot egusob tuhajwar ca darraze bo mew kokulah adegocka jawcueze co.",
+    "bio": "Ju puzwem war hader akdevoma megi pu wosuhgag passanip lacujja icefahaw mauhaviz razueni jiloke vowsom le gu. Wajri movsihno ilioha kaftiiwo turguzaz camga tipbut susapi do vodgo rujmeb sesicorav seane. Er genid ze siinahop na zalume tufok ba egdasda vu ido usaric obahobot apulauw bu joumpu. Luvcu genel uzikouh pohi ta cog ni rokfemomi siwemse sub di sol aza volies. Ja nihasve godlof gujfif vi mumroj hikug kagajat wicoc zuhcis lukag meri lematjuz moocisi koniuvi vicelhoc fa."
+  },
+  "apiKey": "dc0233f3fb7217f2fbf82fec831af245e1027941c397c6939e76d132373ea09f",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
