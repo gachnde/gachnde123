@@ -1,0 +1,26 @@
+{
+  "name": "John Bryant",
+  "age": 31,
+  "address": {
+    "street": "Kagir Court",
+    "city": "Dilamaj",
+    "state": "CO",
+    "zip": "62852"
+  },
+  "contact": {
+    "phone": "(544) 886-3581",
+    "servicePhone": "800293638"
+  },
+  "birthday": "2000-08-02T23:16:49.558Z",
+  "ip": "73.244.6.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Wilwudo biaguga warbu fenoz ejo degik wubelon eme safu oku few hijog. Edotu lonugvo zef uc kipvebem sa akuvoz ispeflul fov gocoj ifoorupu mugozbe miwip nala ha nete icfovif luosego. Eka abanibtub fuk hehosa kufkof niflilic kicezro juf aktez jopuuzi nocwawle cihfezoci.",
+    "bio": "Ha wi ji gif menebaha gotupawa pofamdij upapi fur fik geg karpin buvna. Ep ujoecule newa cofis fivamto bo judipzot beg je fej iceodo be ve jubvid ze dec. Vavemuso pi hakule nazzu abpok de titikug hepamtec mamu ubo ric ligikevi do. Nudkecsom dathuno did nev birofib egiosi dac cak ja weroc az emwoeb sojilop vicuez irnekoz."
+  },
+  "apiKey": "b0056fe49654f2e4b30ee38db48a7e6d658005c6c67708679c2a8865a203604b",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
