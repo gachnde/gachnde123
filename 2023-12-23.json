@@ -1,0 +1,26 @@
+{
+  "name": "Vera Armstrong",
+  "age": 29,
+  "address": {
+    "street": "Game Pike",
+    "city": "Idisoubu",
+    "state": "MI",
+    "zip": "30733"
+  },
+  "contact": {
+    "phone": "(779) 867-9407",
+    "servicePhone": "800393186"
+  },
+  "birthday": "2005-12-07T11:50:58.789Z",
+  "ip": "185.100.20.95",
+  "foo": "bar",
+  "profile": {
+    "about": "Vu me paj kaag jegise id led keti ocowake jo aw jegpoiv doanu cu gozheli lokigej udjir. Cabedari otomiv go cutmupef ocrigor bi wite popipa sochezmo agiinwa ju gav ota efo osciomu dacmiocu. Ag ubugah mih so zulkurru oz kolbugiw bifida lih jobupo rojijsi kesifca ama lijebe dilove. Gavjimawu ewa zuwo jiumtep jenabav efapif evihe vejo bawuf cunezben binafti gedugu. Jewi as nev zesa vide iritut afagikoni bizdobo gafhersug eholabdu jof rojbutgi zubrofa ot.",
+    "bio": "Wevhipde wicreobo tetpode litka bazkowe ru nafgec pietu tockugde uz jowjavsa be gidol tasrun faz hezed. No lellit mimbo bigbo jupow bob sumegru buwgirjek fu ju eb pe. In lalod kugha nahbe sicso goz miv tema googikat miraki da mit sabikidi lawaj. Gub je do zavjin rodefco iseon ucme re iji wefres zoz lujag. Cotzega elacaz fo demo biug pesagsib vupiw peursig vekola negkaci iza miwavru okzij esizenuc adica pazho hafda joev."
+  },
+  "apiKey": "59a8d9e7b6d45a52315fb67ed2bd96e52bacaf722abeb383cda84ec0e72489d6",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
