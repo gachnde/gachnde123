@@ -1,0 +1,26 @@
+{
+  "name": "Philip Berry",
+  "age": 30,
+  "address": {
+    "street": "Zeda Turnpike",
+    "city": "Ocgewun",
+    "state": "DC",
+    "zip": "84466"
+  },
+  "contact": {
+    "phone": "(353) 444-3105",
+    "servicePhone": "800847653"
+  },
+  "birthday": "1993-11-23T06:22:50.448Z",
+  "ip": "137.27.229.185",
+  "foo": "bar",
+  "profile": {
+    "about": "Hir te wib re nede zut inemen oc izuzve pu padudda idijaw wu senewca tuvo. Ebhiwo bigpur aki sasnur da vifomme lofo miwuvmi zofju filso eraon ze. Fe hamimi irwoufa wuijol pim zoffog vawtof solru peh bajec se babgusog jevipbem kudrup azawuho ta ub golitlo.",
+    "bio": "Bufitjor alzuhe jammorba ded wadeso awrena hu rab jos memrom dod koniwa. Igiwuva cic fu lopori pohazej wego rakav bevwi tazeliba huh janemug ag nepjar. Civugod zobvu wido coelojo kehojtir jiz orusi digrej wagzane oblelis kes lu keac jucit utfi pu. Utu ba hapinmaf esojo tignazu togisum gur ala wofa igu foked kaw. Azu aceren jeke inwosode tuc lorazi mahor hup vitotiga fugab puzdenajo cogvogvog enora wudme normoru urefefi ki."
+  },
+  "apiKey": "9b60934083aa64a2611d8288c3b27cb3ddd0b60fd0d4c856f4f1e203597b6134",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
