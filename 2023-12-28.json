@@ -1,0 +1,26 @@
+{
+  "name": "Ricky Jacobs",
+  "age": 46,
+  "address": {
+    "street": "Ajusi Mill",
+    "city": "Jerimu",
+    "state": "FL",
+    "zip": "62110"
+  },
+  "contact": {
+    "phone": "(772) 420-4886",
+    "servicePhone": "800937196"
+  },
+  "birthday": "1979-12-12T22:01:45.241Z",
+  "ip": "4.146.148.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Nuwcin enuivgo bug ug va masum ebo nulgofpo dejrude veta gazlupma kobrease evuwje. Zippoc puv serdic moz ilbos riun dajikwac et joaru bugifi dentu jivjutek. Efani oroumez ogreuvo mizcic bin cu nudili puhwapgol rihtop da akfimte dotueb ka woweccoz. Dujotbi acureb akbe gusculir koig ehla wahe te ved ekaal vino ovipi cam if.",
+    "bio": "How zumwi cidedione wezwor se vodif vokkufset wobko cubemfi uj uge rur. Zow tuv datatu lozeg ameojik gom gurawu rizo puidi jasogo fi be nuporlo fecoko du. Jafas jegvozlip ucezehof gem utvagi aheecgo joj menjefber feztahle ewa po lusedto becigahub motfefob resde te jovna wud. Eziit zahhutaz ude wodabibaz fadsig uliwol poev oge zaho uwanouti lewectif go winhibep no esoka pe. Ejufeniz buvu ad owvokdez tor wisjofe toit fe dijeme fozpufog wid lup ce ha ajzajti ruwuwi hiap vad."
+  },
+  "apiKey": "71f321abbcafc12d98057da63a112a2866f2135f18dd3e8cf4b612c31e36425a",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
