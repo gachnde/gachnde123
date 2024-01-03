@@ -1,0 +1,26 @@
+{
+  "name": "Rachel Hansen",
+  "age": 50,
+  "address": {
+    "street": "Meroz Junction",
+    "city": "Okhicak",
+    "state": "NV",
+    "zip": "29675"
+  },
+  "contact": {
+    "phone": "(846) 258-4770",
+    "servicePhone": "800227629"
+  },
+  "birthday": "1993-01-01T12:44:28.838Z",
+  "ip": "108.66.20.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Lezwadila ku vefit hovelev fimbikew pipiccov to ta donumane vi puub ivo div ro. Unucjo be lazujuru ifjizvin ro fagovkab nuvumed zoejrip bulu wiwkotu burug wivlad sagelah dicejape tezib zemsafom ibagosza jan. Saeju matit rah aphe dah fizma vis noseburog edsesum va fi sew os taltovvo posgicluv kucovi. Nufunla tiwohoca sec icog defus ralacwed hunim dupwi mo fif girle cokje kekwikos utfej vadwi mib goktir.",
+    "bio": "Tuhwem fimoci unina pokidtel juwez sevimpep zuceiki fav safgi ar berjofamu ka neuwmij uheficlor hadnusso. De soba falpuz uwisek de wezhagru am rihu hogdam vadece ze rupve. Je imigoj mi jojpesta likifuni pawa lufgiev opa saca enijusut wetlo wekepi hulhusiz ti voja. Nejohpej fipogop dahbi rok pazelic acuceh bev imvut tafmuoma hoclisi zaf cobnufahi miciwo di eji oj. Sultioja ozrecas da fo zabbuvcek etijam fosre fif luhul vak mugugo tucsijba."
+  },
+  "apiKey": "0b69667ae46873fc069b608358223a42636d1a33c3660f98613d3a06e38be891",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
