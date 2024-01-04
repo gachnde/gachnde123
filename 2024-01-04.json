@@ -1,0 +1,26 @@
+{
+  "name": "Brent Nash",
+  "age": 23,
+  "address": {
+    "street": "Vimgup Center",
+    "city": "Deulibu",
+    "state": "MD",
+    "zip": "41509"
+  },
+  "contact": {
+    "phone": "(856) 774-3263",
+    "servicePhone": "800435898"
+  },
+  "birthday": "1969-02-28T20:31:29.115Z",
+  "ip": "83.122.104.48",
+  "foo": "bar",
+  "profile": {
+    "about": "Sumozgor ompu ocbarsu sotvorpew faz nej zavil man jumdod kunuvha tetritjom nuv ef. Ejka tetuja faznoez zapubze moji faafuek su simenbuw zemur kaej wobufil pirjetrow feurudo. Ajo oja ada widopsi ol zilubih itanotle lu kej nomgazawu fa lowfa hus.",
+    "bio": "Gignot ak cezec wimjuvje zisheali gezijo zifnaz tigo huiv pil jowopa fogocenu. Sasgeafo jac safowdow sec habpijal venape ufagic miajac sizwa gavvutsak luzdud hi sabuf uto gomnebe ije. Difkusmav aniva mocgup ed daas wuj biakjes uduuku de jen oh egede li dijfuwkoc cejobjof bis cuiza ero."
+  },
+  "apiKey": "040b01361ac76a69a2b12c6ba8358879dbffa6fbbee8dc3b12c83042b766f29d",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
