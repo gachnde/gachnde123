@@ -1,0 +1,26 @@
+{
+  "name": "Aiden Carroll",
+  "age": 20,
+  "address": {
+    "street": "Fivba Path",
+    "city": "Vugarate",
+    "state": "AZ",
+    "zip": "52420"
+  },
+  "contact": {
+    "phone": "(810) 309-2545",
+    "servicePhone": "800891218"
+  },
+  "birthday": "1960-01-21T23:24:56.095Z",
+  "ip": "102.94.122.240",
+  "foo": "bar",
+  "profile": {
+    "about": "Farufu durbam vaom cez huvez tuwur hidab puz ku razlebce mofhu ucdirig dofak enudi iri omsuawi dahebro. Hi ugsew fa ja soduh sum zamvav sit pajotto abuvo wanuz tarzu zuap julvad accojuji. Duzwoat ejuan nuzruvso hubde jeriedi hofsoju nojazoam pin kutuwiel uta vosgor cugil ves caphotote vaifa berod otu. Tiwuhuj apezem huv je muwiudo losesu revodci rukle uwoewceh um cuw lac.",
+    "bio": "Kadigse mufaeso kaaguce noce huzop sel fozip af as filipef wev dadji dubac ujikesim. Sepwu uwren vav goj iwumukad ve cajus ija badjuj mowuhku tirku buhco aczezu suve. Fo uvirieb irojek zaguma bef nizek nonka zem ec cuf bi guki."
+  },
+  "apiKey": "2738095d78a3802a0829bc2a95d90e97deb40118969af0b00d39cd01fa3e9d8c",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
