@@ -1,0 +1,26 @@
+{
+  "name": "Anthony Delgado",
+  "age": 53,
+  "address": {
+    "street": "Sadike Boulevard",
+    "city": "Hiskotav",
+    "state": "HI",
+    "zip": "10483"
+  },
+  "contact": {
+    "phone": "(540) 289-2327",
+    "servicePhone": "800443158"
+  },
+  "birthday": "1967-04-30T09:39:09.841Z",
+  "ip": "45.160.121.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Aje if wadil de guw pozo ejoj velgowdo ta vahzu cabu jiraku ig icmulo ar setonid kizguhe. Pupjowob karafles ded suibcob tucdonu huziko azi cam bap gusva marnuuc ikohob. Rusle vajsu wocmez nugen ahik no zo capunogit jowmeje mi kusu sifid tenrub mobhe idu.",
+    "bio": "Tuul gobiffil bu ciuka ozte dot atraus eg eznasi jepen paj ras cuhmow maci tuw gocfu. Jen pu ezizeaj roseniafe rehgicor elupozig to gi ihelec pogjora diz izveh gen. Gusam amnud ruw rufa iposu vacbo zupji cohoh rectiw wuka bonnimez jasokku rovsedih ujuroriw rudo velubfil."
+  },
+  "apiKey": "c712809af1dcafa44f0ab1b99054a9af7e5929a80d8735eb8057659522d5e467",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
