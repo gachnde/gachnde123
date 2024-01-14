@@ -1,0 +1,26 @@
+{
+  "name": "Tom Todd",
+  "age": 36,
+  "address": {
+    "street": "Lubhew Parkway",
+    "city": "Gekevohov",
+    "state": "CO",
+    "zip": "29970"
+  },
+  "contact": {
+    "phone": "(660) 804-8307",
+    "servicePhone": "800225566"
+  },
+  "birthday": "1965-09-18T12:57:26.479Z",
+  "ip": "30.9.246.8",
+  "foo": "bar",
+  "profile": {
+    "about": "Se bakvi natceevo ri to lo ku nejnoleb tupe wehiza ga hocme at ija meenge fa res. Nemahagev alomuk kugiw ofe fetumbi tow biwulit vimubaz isusumra rupvezkok fab fokucdik wawiwga emewicaje dor. Di poene isiviace godlamom bajuom gesfages pabowfi jen esameha ca cefele avig witivi wouve buhotuh do ragcinvo.",
+    "bio": "Raw oronej sufej sol wud wamogef ecetet wip ilde fare uhzep zagergaj bumbor ju je unarobwa. Urihuse es azarove ube jeg siulobe rop izeivojo rikwijni ehoso cek hi meruub denokun ivo bewcugo pilpada tu. Bulez mi zaju jeviku kaf dicezwo ov koc ko pouczak sekjiwi lelukez jo."
+  },
+  "apiKey": "3c911af91cfe00a43fb5e2efa6981d8e175307defa492165bba1fbfd7314d98f",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
