@@ -1,0 +1,26 @@
+{
+  "name": "Austin Weaver",
+  "age": 38,
+  "address": {
+    "street": "Gudo Center",
+    "city": "Cohsezo",
+    "state": "MN",
+    "zip": "22444"
+  },
+  "contact": {
+    "phone": "(250) 208-6572",
+    "servicePhone": "800763362"
+  },
+  "birthday": "1981-08-04T01:33:07.236Z",
+  "ip": "245.159.155.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Dubica vi pusa tivut kupib koj rez kadisuciv upivahun kudu bu nupilsa etegaezo zulmovuni bitovzug fer te. Wuj juswi mur deipumu onupe jeg an sab culoazu ja dezutpoj uhobecjo soameuw wo loc ufieh. Tahnidove hi kupgim ne zuf womga ju fo zoci kakun muekufoz vefuito foudoved imobij hittafoh jukgunom ogebigvo. Vibepo eh segi ruj niko lehjiajo omu du temawe isabine anitma zazgu kiov ci je wehnodov hike ohza. Lozak owjuscud betlup na igajozi kew bepah zagubva nac vunjadoj ninfu fukha efkuhab fak go idizitot. Meapvif ru weugos is udrum epudo sowpatku por kitaop zet kulevpu lomojak gi so omu.",
+    "bio": "Obeimu warowu nahokoj optu vugta tagcekud si fogomaur elululpuk ahi cewta honi. Noldebmu zes iwo jifa wagoguv ti if wozafo lezah fapip ve owsecap wilruvi vuwrur. Wutor der fiwdesara wahmik kaageluz huhoj korog maz amzucib aje pe sivok va ok bashajbi."
+  },
+  "apiKey": "0f498e54eb483a1d53de85a5028bee7cf08d9f80cd04765508d8839e61cbacdf",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
