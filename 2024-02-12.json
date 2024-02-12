@@ -1,0 +1,26 @@
+{
+  "name": "Cecilia Conner",
+  "age": 37,
+  "address": {
+    "street": "Pakdi View",
+    "city": "Pizivme",
+    "state": "AR",
+    "zip": "24835"
+  },
+  "contact": {
+    "phone": "(233) 743-4379",
+    "servicePhone": "800275441"
+  },
+  "birthday": "1963-11-26T11:16:45.201Z",
+  "ip": "149.169.23.99",
+  "foo": "bar",
+  "profile": {
+    "about": "Joenoifo ta lo tenilwit dejvo gasdoisa aneatobi iho da ratzo inuzu jiloz va fighimu hir. Pobvuk vuget oduel tezvo hi gacemoz bomara fojanije vovnigu akhe namhabap eb tifso kuowekiz. Habeddu wesa ig it zozuve cetet zazkot utimowud ve siguvcif cajlij gujaszif konus miloni gapfozced weh adu.",
+    "bio": "Dagwutza jebanga fihinas eritagvoj are her onodud ja lelimi ca mukunrov re gefdu maehauw hu dertuw. Zadogemu podlu hacparip ah buwdo zup sikew up woh tiwaed wenojo uckunod bamotok. Arjoh deruc ig miedoko oririzoz welnodem bo goreop dim covuf husuluejo kibakeg upowelar ut."
+  },
+  "apiKey": "a855ca5e98e76893f1bf6425cdbb9a24ea2766457f0bb6913834c0c3e37bec94",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
