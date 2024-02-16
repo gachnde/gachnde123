@@ -1,0 +1,26 @@
+{
+  "name": "Peter Peters",
+  "age": 54,
+  "address": {
+    "street": "Dudan Mill",
+    "city": "Cubajut",
+    "state": "TN",
+    "zip": "44383"
+  },
+  "contact": {
+    "phone": "(605) 972-9935",
+    "servicePhone": "800867161"
+  },
+  "birthday": "1989-03-01T01:02:11.423Z",
+  "ip": "176.156.17.175",
+  "foo": "bar",
+  "profile": {
+    "about": "Tisemesi vomeju suboc nurkumnor guj nowokah de has si cesu sebfozow ijwiha otatazak fofhac ek hablezkuz baluvda. On renrik kudav sajofho jonocdid uk ge vopol fode sad huldici kum zezewuci bafkati tiwmeh rohtag menohez pavvudu. Novgiwpuz jeksac niwilo fob mos isuga akkic kodobwam mofes mih gin mozcivov. Ki ovijamil hijje cazke juv wovrewnib vib lamaho ojak beg wutlek anvosa vizo zu kocu.",
+    "bio": "Zomuz ripuk obete orsaiwu vupih bek fagja itgajuv dul gehpakpo ucruuwi latilev od mohalaga to ika. Evado epekumzec iga bad toksu rorwepe ziajni ufi bufrek uwkekku dacub pe. Ehe fig paijiwen jobiga di sucva vi sato nohohkol mekobuh hopnenih bowujtu kujizij tavkuiko."
+  },
+  "apiKey": "25ba85456782072d23185df12438d6d52776ac90849adaf32ddf29218973e238",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
