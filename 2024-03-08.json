@@ -1,0 +1,26 @@
+{
+  "name": "Steve Daniel",
+  "age": 34,
+  "address": {
+    "street": "Kolam Center",
+    "city": "Uzneci",
+    "state": "AZ",
+    "zip": "53776"
+  },
+  "contact": {
+    "phone": "(630) 408-2109",
+    "servicePhone": "800913734"
+  },
+  "birthday": "1996-06-14T22:17:32.154Z",
+  "ip": "171.245.98.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Isosi pu rah ufudad zowdufa bobmeleg pimupji fo opiede peali doede let gaggom japnu. Atipa menuzdip upiru fiozizo ki ora hahij nomavdu jat ajacu kucarrac ojojiso. Wob oda tedci zofgo ce moka fosocpab si na nil gaevka wevezuh un.",
+    "bio": "Ni za ziipte wiuj biizufef hadauzi badjep jovtunur zuroshe des ve ko. Tojhi roenu ni ubioksa jozu dekemab nahlum ela pirevpu fow fa piguvwin kawafe cubmus furce zoldus. Lupor newnonu jevaf donegi dadithid kempi gobono je bewnu hodoz umfe tuziro fo."
+  },
+  "apiKey": "e2a79ffc5d8c66f586b3fc7eb8ba6ec2cf4c54fc317e2c8811fba8be379c9ca9",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
