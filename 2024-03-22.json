@@ -1,0 +1,26 @@
+{
+  "name": "Sarah Wagner",
+  "age": 53,
+  "address": {
+    "street": "Lohuf Terrace",
+    "city": "Dujsowopo",
+    "state": "ID",
+    "zip": "99211"
+  },
+  "contact": {
+    "phone": "(912) 825-8736",
+    "servicePhone": "800428526"
+  },
+  "birthday": "1965-04-26T10:40:03.995Z",
+  "ip": "175.213.92.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Obu vomakeguk ugkahum besij huwa zej gerba veh avimurluj ko vencoz co se. Wuppi ju wukig idi pav vezmahca omi gipo okegsib miweg foliuk kijvubi guj lod nihe jadpewjo waewki. Uhved gag jeaw nod cotma gompadab habedrog pijcif unaf lavtiwvuj nekemo uwpen jel.",
+    "bio": "Wuvowzav wa fefpigkuw jowfeb gufgokaf eb lolde ikum zihifu okutop usucu fuvehhet ve zekud inkinbav kondascuf. On ajacaj ajsa kivu lujperac faos ajuela ju awata wijaute oc ludu. Pom wo siale wu uwuwo vet si tokruw nipjarew kamcole kujpir pud mipimu."
+  },
+  "apiKey": "8e48e53c639f734b86d5994722e8f6bf9ad8b480a67f3341a6b52c82e5290e1f",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
