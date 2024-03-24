@@ -1,0 +1,26 @@
+{
+  "name": "Ricardo French",
+  "age": 56,
+  "address": {
+    "street": "Socim Grove",
+    "city": "Jozepmub",
+    "state": "CA",
+    "zip": "06228"
+  },
+  "contact": {
+    "phone": "(637) 469-9411",
+    "servicePhone": "800511195"
+  },
+  "birthday": "1984-06-21T05:52:51.464Z",
+  "ip": "148.201.160.120",
+  "foo": "bar",
+  "profile": {
+    "about": "Hedaz rij iro jeviluw duker na temot podog gah lilovike sud eko sona. Itehaco cezupoel ojine cane widamsi tir re ocmepol ungij babu luwsoshe eruce fa do paeme zu vos sew. Wig maosuvo newak ujewus noeg jisuw se hefid er nojubi pele zek okjojul lasdiob. Jilab eviasiiwe uslivo peipe ficsadzow nodlurej nu vambe nemfapgi maesutur fifka dalhono pif ra.",
+    "bio": "Buceleg wolaztu ochas haljih un hiwgi dawe tora za awgeun lu keciohe fuecocav hotit mos. Pertigzu recpe pe nozne cindupko jopurhif jahef azhal zudaale ukawi vofe mubipiak cifa ojo vufsetew dis wimevli. Igface zew az ralo mubedgi befa kewifna jolgiw efopewuf or narug hetavrec hew vajgik tunorag."
+  },
+  "apiKey": "fbba17fbcaaf84585efad369c0fa148ff0dde6d70835be59d65e5c4c4cde774a",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
