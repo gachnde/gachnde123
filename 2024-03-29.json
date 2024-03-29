@@ -1,0 +1,26 @@
+{
+  "name": "Louise Palmer",
+  "age": 62,
+  "address": {
+    "street": "Aruras Glen",
+    "city": "Jummiffij",
+    "state": "AK",
+    "zip": "27943"
+  },
+  "contact": {
+    "phone": "(209) 425-1041",
+    "servicePhone": "800957963"
+  },
+  "birthday": "2000-03-16T00:20:01.564Z",
+  "ip": "103.82.254.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Zal re ul mawwebup icdohla goferte ewhawab ris emoodu hifut bek ottado ka zetdo. Segboris ji osnitgo hinwokot getbonub za waptat zek puvze li nic cita poj keve jeg sifusgis zecbiwja duc. Gacenu vamri efig zimkemom nuhupemo hel dige uliipwa cizig siupi perjub ekanimor ga suwabu eselo.",
+    "bio": "Saiki mebnejned ciba odaud nuvfab safzac la mijhapah duwzum joliitu refju esewaf. Detur wivheso jihezmiw pitzocfu numaovo vehowtek rezzosof duja du aficohzoc ujiluw vihew vu jizifzo pes itohe evufetika. Sobib was az zopti ezu derlekofa susub ibunaaba wo buzrina dog muju."
+  },
+  "apiKey": "4a3d5d4a2d75dc1be8f8d1e92db7fbee4a88a69f946b75d30da0e9ce7005c204",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
