@@ -1,0 +1,26 @@
+{
+  "name": "Mary McGuire",
+  "age": 26,
+  "address": {
+    "street": "Jusre Ridge",
+    "city": "Bezaje",
+    "state": "RI",
+    "zip": "10235"
+  },
+  "contact": {
+    "phone": "(949) 476-4837",
+    "servicePhone": "800563634"
+  },
+  "birthday": "1964-11-27T09:19:38.280Z",
+  "ip": "205.244.115.112",
+  "foo": "bar",
+  "profile": {
+    "about": "Mildepfer teneget jomzu hivhupa vogdosi ce nocofva fasuk capeg figdafzah wumoj merro bedfedmil lapwina ridod usavu. Kadiptaf poofu kiozo vot recrusek neosi selkoh ne dod vuhtofuf dudga law ru. Gu zetlatji vivju sik kekelih zu fi akimana ve ziver divod fi dinekba li voj souk pehsu.",
+    "bio": "Cu mi dok jeifa izi kag gudu pegozak es opogpo vofil vidwupan gevcinfug havoh isupawab. Ovse obmanup fagewdog gu suligo jol nifin ucu ube ladvajno uti zilijlit ji di sadfe ru nutube. Ladre haw sov zo bitgackad oga firgare evu vu edulefuc uw ruvmo gicudore rowrijcid. Baeto pewce zeb gesfu tetolom wocedid gul caleket uzabogus pimet dun suzud wifekam ci neim. Nosluju murcure fotidod omhe foemobu woaw joz vun cobhew uvike liewa forpucgum."
+  },
+  "apiKey": "7690dc72d1decdc0d192e4ee8defdf225009d85a5b514b58f2a1b3d1f23af337",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
